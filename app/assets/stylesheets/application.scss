@@ -285,6 +285,7 @@ a.divLink {
     width: 30%;
     height: 300px;
     margin-left: 22%;
+    margin-right: 4%;
    
 
 }
@@ -298,7 +299,10 @@ a.divLink {
     width: 30%;
     height: 300px;
     margin-left: 1%;
-    margin-right: 8%
+    margin-right: 8%;
+    padding-right: 5%;
+    padding-top: 1%;
+    
 
 }
 #oakland:hover {
@@ -317,6 +321,14 @@ font-size: 1.6em;
 	padding-left: 8%;
 	padding-right: 8%;
 	padding-bottom: 0%;
+	margin-top: -4%;
+}
+
+#datarow2 {
+	padding-top: 8%;
+	padding-left: 4%;
+	padding-right: 8%;
+	padding-bottom: 0%;
 	margin-top: -3%;
 }
 #textrow{
@@ -325,17 +337,23 @@ font-size: 1.6em;
   padding-left: 8%;
   padding-right: 8%;
   margin-left: 2%;
-  margin-top: -15%;
+  margin-top: -18%;
 }
 #textrow2{
   font-family: 'Work Sans', sans-serif;
   font-size: 1.5em;
   padding-left: 22%;
   padding-right: 18%;
-  margin-left: 2%;
+  margin-left: 1%;
 }
 #oaklandText{
-	margin-left: -7%;
+	
+	padding-left: 18%;
+}
+
+#marinText{
+
+	margin-left: -4%;
 }
 
 #innerTitles {
