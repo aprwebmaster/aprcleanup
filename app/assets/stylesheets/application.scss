@@ -23,6 +23,9 @@
 /* md */
 @media screen and (min-width: 992px) {
 
+.container-fluid {
+	padding: 0px;
+}
 
 #backgroundHero{
 	background-image: url(asset-path('Desktop_Hero.jpg'));
@@ -290,6 +293,9 @@ a.divLink {
 /* small < 991 */
 @media screen and (max-width: 991px) {
 
+.container-fluid {
+	padding: 0px;
+}
 
 #backgroundHero{
 	background-image: url(asset-path('Desktop_Hero.jpg'));
